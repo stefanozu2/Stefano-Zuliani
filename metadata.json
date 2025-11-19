@@ -1,0 +1,5 @@
+{
+  "name": "Analizzatore Bolletta Mini Fotovoltaico SOLEASY",
+  "description": "Un'applicazione che analizza la tua bolletta elettrica, valuta il tuo contratto e simula i risparmi mensili derivanti dall'installazione di un kit mini-fotovoltaico con accumulo.",
+  "requestFramePermissions": []
+}
